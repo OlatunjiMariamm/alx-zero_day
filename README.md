@@ -1,1 +1,1 @@
-totality
+totality friday
