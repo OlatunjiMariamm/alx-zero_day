@@ -1,2 +1,1 @@
-totality friday
-loves
+totality 
